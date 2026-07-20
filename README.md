@@ -30,19 +30,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 ### 🛠️ Tecnologías y Herramientas
 
 <!--STACK:START-->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring-boot"/>
-</p>
+_Cargando tecnologías automáticamente..._
 <!--STACK:END-->
 
 ### 📊 Actividad en GitHub
@@ -53,13 +41,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 
 <details open>
 <summary><b>🔄 Proyectos Actuales (Actualizado automáticamente)</b></summary>
-
 <!--PROJECTS:START-->
-- **[jhoan-sebastian-cardenas](https://github.com/jhoan-sebastian-cardenas/jhoan-sebastian-cardenas)** `JavaScript` — Sin descripción
-- **[AppVotacionUsantoto](https://github.com/jhoan-sebastian-cardenas/AppVotacionUsantoto)** `TypeScript` — Aplicación de votación digital desarrollada para la Universidad Santo Tomás, enfocada en la gestión segura de procesos electorales. Permite administrar elecciones, candidatos y votaciones mediante una interfaz intuitiva en web y móvil
-- **[OpticView](https://github.com/jhoan-sebastian-cardenas/OpticView)** `Java` — Sin descripción
-- **[Sistema-de-Gestion-de-Hoteles](https://github.com/jhoan-sebastian-cardenas/Sistema-de-Gestion-de-Hoteles)** `PHP` — Este proyecto es una aplicación web integral para la gestión y administración de hoteles, categorías de hoteles y ciudades. Permite crear, leer, actualizar y eliminar registros (operaciones CRUD) con una interfaz intuitiva y segura.
-- **[Gestion_de_Dispositivos](https://github.com/jhoan-sebastian-cardenas/Gestion_de_Dispositivos)** `TypeScript` — Aplicación API REST construida en TypeScript para registrar y gestionar dispositivos físicos: computadoras y equipos médicos. Permite el check-in y check-out de dispositivos, registro de "computadoras frecuentes", subida y exposición de fotos y listados filtrables.
 <!--PROJECTS:END-->
 
 </details>
@@ -72,7 +54,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 
 ¿Tienes un proyecto interesante o quieres colaborar? Me encantaría escuchar tus ideas.
 
-**[📧 Envíame un email](mailto:tu-email@ejemplo.com)** • **[💼 LinkedIn](https://www.linkedin.com/in/jhoan-sebastian-cardenas/)** • **[🌐 Mi Portafolio](https://jhoancardenas-web-developer.vercel.app/)**
+**[📧 Envíame un email](jhoansebascar124@gmail.com)** • **[💼 LinkedIn](https://www.linkedin.com/in/jhoan-sebastian-cardenas/)** • **[🌐 Mi Portafolio](https://jhoancardenas-web-developer.vercel.app/)**
 
 </div>
 
