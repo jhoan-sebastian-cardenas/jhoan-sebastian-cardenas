@@ -1,0 +1,41 @@
+name: Actualizar README con proyectos recientes
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todos los días a las 6:00 AM UTC
+  workflow_dispatch:        # también se puede correr manualmente desde la pestaña Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Actualizar sección de proyectos
+        run: node scripts/update-projects.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Actualizar stack tecnológico (ordenado por uso)
+        run: node scripts/update-stack.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: actualizar proyectos y stack tecnológico"
+          git push
