@@ -25,7 +25,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoan-sebastian-cardenas/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jhoancardenas-web-developer.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhoansebascar124@gmail.com)
 
 ### 🛠️ Tecnologías y Herramientas
 
