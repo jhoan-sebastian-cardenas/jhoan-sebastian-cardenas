@@ -104,7 +104,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
   
   <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 Java</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 2 meses</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 3 meses</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
   </div>
