@@ -57,19 +57,19 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 <div style="background: linear-gradient(135deg, #6a0a1a 0%, #1a0a0f 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">
     <span>📦</span>
-    <a href="https://github.com/jhoan-sebastian-cardenas/jhoan-sebastian-cardenas" style="color: white; text-decoration: none; font-size: 1.2em;">jhoan-sebastian-cardenas</a>
+    <a href="https://github.com/jhoan-sebastian-cardenas/Gestion_de_Dispositivos" style="color: white; text-decoration: none; font-size: 1.2em;">Gestion_de_Dispositivos</a>
   </h3>
   
-  <p style="margin: 10px 0; font-size: 0.95em; opacity: 0.95;">Sin descripción disponible</p>
+  <p style="margin: 10px 0; font-size: 0.95em; opacity: 0.95;">Aplicación API REST construida en TypeScript para registrar y gestionar dispositivos físicos: computadoras y equipos médicos. Permite el check-in y check-out de dispositivos, registro de "computadoras frecuentes", subida y exposición de fotos y listados filtrables.</p>
   
   <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 JavaScript</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 2 días</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 TypeScript</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Ayer</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
   </div>
   
-  <a href="https://github.com/jhoan-sebastian-cardenas/jhoan-sebastian-cardenas" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 10px; border: 1px solid rgba(255,255,255,0.4); transition: all 0.3s ease;">
+  <a href="https://github.com/jhoan-sebastian-cardenas/Gestion_de_Dispositivos" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 10px; border: 1px solid rgba(255,255,255,0.4); transition: all 0.3s ease;">
     Ver Repositorio →
   </a>
 </div>
@@ -84,7 +84,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
   
   <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 TypeScript</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 2 meses</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Ayer</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
   </div>
@@ -95,6 +95,26 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 </div>
 
 <div style="background: linear-gradient(135deg, #7a1a2e 0%, #1f0a15 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span>📦</span>
+    <a href="https://github.com/jhoan-sebastian-cardenas/jhoan-sebastian-cardenas" style="color: white; text-decoration: none; font-size: 1.2em;">jhoan-sebastian-cardenas</a>
+  </h3>
+  
+  <p style="margin: 10px 0; font-size: 0.95em; opacity: 0.95;">Sin descripción disponible</p>
+  
+  <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 JavaScript</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Ayer</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
+  </div>
+  
+  <a href="https://github.com/jhoan-sebastian-cardenas/jhoan-sebastian-cardenas" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 10px; border: 1px solid rgba(255,255,255,0.4); transition: all 0.3s ease;">
+    Ver Repositorio →
+  </a>
+</div>
+
+<div style="background: linear-gradient(135deg, #4a0f1f 0%, #0d0609 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">
     <span>📦</span>
     <a href="https://github.com/jhoan-sebastian-cardenas/OpticView" style="color: white; text-decoration: none; font-size: 1.2em;">OpticView</a>
@@ -110,26 +130,6 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
   </div>
   
   <a href="https://github.com/jhoan-sebastian-cardenas/OpticView" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 10px; border: 1px solid rgba(255,255,255,0.4); transition: all 0.3s ease;">
-    Ver Repositorio →
-  </a>
-</div>
-
-<div style="background: linear-gradient(135deg, #4a0f1f 0%, #0d0609 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <span>📦</span>
-    <a href="https://github.com/jhoan-sebastian-cardenas/Sistema-de-Gestion-de-Hoteles" style="color: white; text-decoration: none; font-size: 1.2em;">Sistema-de-Gestion-de-Hoteles</a>
-  </h3>
-  
-  <p style="margin: 10px 0; font-size: 0.95em; opacity: 0.95;">Este proyecto es una aplicación web integral para la gestión y administración de hoteles, categorías de hoteles y ciudades. Permite crear, leer, actualizar y eliminar registros (operaciones CRUD) con una interfaz intuitiva y segura.</p>
-  
-  <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 PHP</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 3 meses</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
-  </div>
-  
-  <a href="https://github.com/jhoan-sebastian-cardenas/Sistema-de-Gestion-de-Hoteles" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 10px; border: 1px solid rgba(255,255,255,0.4); transition: all 0.3s ease;">
     Ver Repositorio →
   </a>
 </div>
