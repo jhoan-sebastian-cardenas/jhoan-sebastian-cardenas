@@ -31,15 +31,15 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
 
 <!--STACK:START-->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring-boot"/>
 </p>
@@ -84,7 +84,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
   
   <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 TypeScript</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 13 días</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 14 días</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
   </div>
@@ -104,7 +104,7 @@ Mi filosofía: escribir código limpio, mantenible y bien documentado. Mi objeti
   
   <div style="display: flex; gap: 10px; margin: 12px 0; flex-wrap: wrap;">
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">💬 TypeScript</span>
-    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 13 días</span>
+    <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⏰ Hace 14 días</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">⭐ 0 stars</span>
     <span style="background: rgba(255,255,255,0.25); padding: 5px 12px; border-radius: 20px; font-size: 0.85em;">🔀 0 forks</span>
   </div>
